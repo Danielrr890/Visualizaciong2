@@ -45,23 +45,23 @@ body {font-family: "Lato", sans-serif}
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg" style="width:100%">
+     <div class="w3-display-bottomright w3-container w3-text-black w3-padding-32 w3-hide-small">
+      <h3>Programming lover</h3>
+      <p><b>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler</b></p>   
+    </div>  
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/fondo.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Los Angeles</h3>
-      <p><b>We had the best time playing at Venice Beach!</b></p>   
+      <h3>Travel lover</h3>
+      <p><b> “Jobs fill your pockets, adventures fill your soul.”</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="/w3images/ny.jpg" style="width:100%">
+    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/math.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>New York</h3>
-      <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
-    </div>
-  </div>
-  <div class="mySlides w3-display-container w3-center">
-    <img src="/w3images/chicago.jpg" style="width:100%">
-    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Chicago</h3>
-      <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
+      <h3>Math lover</h3>
+      <p><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
     </div>
   </div>
 
