@@ -45,20 +45,20 @@ body {font-family: "Lato", sans-serif}
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg?raw=true" style="width:100%" alt="brain">
-     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+     <div class="w3-display-bottomright w3-container w3-text-black w3-padding-32 w3-hide-small">
       <h3>Programming lover</h3>
       <p><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
     </div>  
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/fondo.JPG?raw=true" style="width:100%" alt="fondo">
-    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/cocuy.jpg?raw=true" style="width:100%" alt="cocuy">
+    <div class="w3-display-topmiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Travel lover</h3>
       <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/main/images/math.jpg?raw=true" style="width:100%" alt="math">
+    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/math.jpg?raw=true" style="width:100%" alt="math">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Math lover</h3>
       <p><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
