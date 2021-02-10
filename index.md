@@ -47,14 +47,14 @@ body {font-family: "Lato", sans-serif}
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg" style="width:100%">
      <div class="w3-display-bottomright w3-container w3-text-black w3-padding-32 w3-hide-small">
       <h3>Programming lover</h3>
-      <p><b>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler</b></p>   
+      <p><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
     </div>  
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/fondo.JPG" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
       <h3>Travel lover</h3>
-      <p><b> “Jobs fill your pockets, adventures fill your soul.”</b></p>    
+      <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
