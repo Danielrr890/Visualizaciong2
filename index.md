@@ -16,27 +16,16 @@ body {font-family: "Lato", sans-serif}
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
     <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">BAND</a>
-    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">TOUR</a>
-    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
-    <div class="w3-dropdown-hover w3-hide-small">
-      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
-      <div class="w3-dropdown-content w3-bar-block w3-card-4">
-        <a href="#" class="w3-bar-item w3-button">Merchandise</a>
-        <a href="#" class="w3-bar-item w3-button">Extras</a>
-        <a href="#" class="w3-bar-item w3-button">Media</a>
-      </div>
-    </div>
+    <a href="#aboutme" class="w3-bar-item w3-button w3-padding-large w3-hide-small">About me</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Contact</a>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
 <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
-  <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
-  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
-  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
+  <a href="#aboutme" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">About me</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Contact</a>
 </div>
 
 <!-- Page content -->
@@ -45,7 +34,7 @@ body {font-family: "Lato", sans-serif}
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg?raw=true" style="width:100%" alt="brain">
-     <div class="w3-display-bottomleft w3-container w3-text-yellow w3-text-shadow:2px 2px 0 #444 w3-padding-16 w3-hide-small">
+     <div class="w3-display-bottomleft w3-container w3-text-yellow w3-text-shadow:2px 2px 0 #FFFF00 w3-padding-16 w3-hide-small">
       <h3>Programming lover</h3>
       <p style="max-width:300px;"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
     </div>  
@@ -66,7 +55,7 @@ body {font-family: "Lato", sans-serif}
   </div>
 
   <!-- The Band Section -->
-  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="aboutme">
     <h2 class="w3-wide">Miguel Angel Rippe Espinosa</h2>
     <p class="w3-opacity"><i>Mathematician</i></p>
     <p class="w3-justify"> Hello!!! I'm a mathematician from National University of Colombia, actually I'm finishing my doctoral studies in pure maths (Partial Differential Equations). I have always been passionate about numerical methods and programming. I have worked as a teacher in several universities and 
@@ -91,7 +80,7 @@ I love traveling and seeing natural places.</p>
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/"> </a></i>
+  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/"target="_blank"> </a></i>
   <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
