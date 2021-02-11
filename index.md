@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--DOCTYPE html-->
 <html lang="en">
 <title>Miguel Angel Rippe</title>
 <meta charset="UTF-8">
@@ -55,7 +55,7 @@ body {font-family: "Lato", sans-serif}
     </div>
   </div>
 
-  <!-- The Band Section -->
+  <!-- aboutme Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="aboutme">
     <h2 class="w3-wide">Miguel Angel Rippe Espinosa</h2>
     <p class="w3-opacity"><i>Mathematician</i></p>
@@ -121,6 +121,5 @@ window.onclick = function(event) {
   }
 }
 </script>
-
 </body>
 </html>
