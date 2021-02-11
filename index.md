@@ -47,7 +47,7 @@ body {font-family: "Lato", sans-serif}
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg?raw=true" style="width:100%" alt="brain">
      <div class="w3-display-bottomleft w3-container w3-text-yellow w3-text-shadow:1px 1px 0 #444 w3-padding-16 w3-hide-small">
       <h3>Programming lover</h3>
-      <p style="max-width:50px;"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
+      <p style="max-width:300px;"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
     </div>  
   </div>
   <div class="mySlides w3-display-container w3-center">
@@ -61,7 +61,7 @@ body {font-family: "Lato", sans-serif}
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/math.jpg?raw=true" style="width:100%" alt="math">
     <div class="w3-display-bottomright w3-container w3-text-white w3-padding-16 w3-hide-small">
       <h3>Math lover</h3>
-      <p style="max-width:100px;"><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
+      <p style="max-width:300px;"><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
     </div>
   </div>
 
@@ -91,7 +91,7 @@ I love traveling and seeing natural places.</p>
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/"> target="_blank"></a></i>
+  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/"> </a></i>
   <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
