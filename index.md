@@ -41,14 +41,14 @@ body {font-family: "Lato", sans-serif}
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/cocuy.jpg?raw=true" style="width:100%" alt="cocuy">
-    <div class="w3-display-bottommiddle w3-container w3-text-black w3-padding-16 w3-hide-small">
+    <div class="w3-display-bottommiddle w3-container w3-text-Teal w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
       <h3>Travel lover</h3>
       <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
     </div>
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/math.jpg?raw=true" style="width:100%" alt="math">
-    <div class="w3-display-bottomright w3-container w3-text-white w3-padding-16 w3-hide-small">
+    <div class="w3-display-bottomright w3-container w3-text-white w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
       <h3>Math lover</h3>
       <p style="max-width:350px;"><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
     </div>
@@ -81,7 +81,7 @@ I love traveling and seeing natural places.</p>
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
   <a href="https://www.linkedin.com/in/marippee"><i class="fa fa-linkedin w3-hover-opacity"> </i> </a>
-  <a href="https://github.com/MiguelRippe"><i class="fa fa-linkedin w3-hover-opacity"> </i> </a>
+  <a href="https://github.com/MiguelRippe"><i class="fa fa-github w3-hover-opacity"> </i> </a>
   <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
