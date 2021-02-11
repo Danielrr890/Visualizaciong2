@@ -72,7 +72,7 @@ I love traveling and seeing natural places.</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-col m6 w3-large w3-margin-bottom">
         <i class="fa fa-map-marker" style="width:30px"></i> Bogotá, colombia<br>
-        <i class="fa fa-envelope" style="width:30px"> </i> Email: mrippee@ucentral.edu.co<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> mrippee@ucentral.edu.co<br>
       </div>
       
 <!-- End Page Content -->
