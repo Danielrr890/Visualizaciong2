@@ -41,17 +41,17 @@ body {font-family: "Lato", sans-serif}
     </div>  
   </div>
   <div class="mySlides w3-display-container w3-center">
-    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/cocuy.jpg?raw=true" style="width:100%" alt="cocuy">
-    <div class="w3-display-bottommiddle w3-container w3-text-teal w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
-      <h3>Travel lover</h3>
-      <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
-    </div>
-  </div>
-  <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/math.jpg?raw=true" style="width:100%" alt="math">
     <div class="w3-display-bottomright w3-container w3-text-white w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
       <h3>Math lover</h3>
       <p style="max-width:350px;"><b>"There should be no such thing as boring mathematics."— Edsger W. Dijkstra </b></p>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/cocuy.jpg?raw=true" style="width:100%" alt="cocuy">
+    <div class="w3-display-bottommiddle w3-container w3-text-teal w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
+      <h3>Travel lover</h3>
+      <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
     </div>
   </div>
 
@@ -101,7 +101,7 @@ function carousel() {
   myIndex++;
   if (myIndex > x.length) {myIndex = 1}    
   x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 4000);    
+  setTimeout(carousel, 6000);    
 }
 
 // Used to toggle the menu on small screens when clicking on the menu button
