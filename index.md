@@ -1,6 +1,6 @@
 <!--DOCTYPE html-->
 <html lang="en">
-<!--<title>Miguel Angel Rippe</title>-->
+<title>Miguel</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -19,7 +19,7 @@ body {font-family: "Lato", sans-serif}
     <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
     <a href="#aboutme" class="w3-bar-item w3-button w3-padding-large w3-hide-small">About me</a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Contact</a>
-    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+    <!--<a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>-->
   </div>
 </div>
 
