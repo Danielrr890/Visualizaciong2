@@ -15,7 +15,7 @@ body {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
     <a href="#aboutme" class="w3-bar-item w3-button w3-padding-large w3-hide-small">About me</a>
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Contact</a>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
@@ -34,7 +34,7 @@ body {font-family: "Lato", sans-serif}
   <!-- Automatic Slideshow Images -->
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/brain.jpg?raw=true" style="width:100%" alt="brain">
-     <div class="w3-display-bottomleft w3-container w3-text-yellow w3-text-shadow:2px 2px 0 #FFFF00 w3-padding-16 w3-hide-small">
+     <div class="w3-display-bottomleft w3-container w3-text-yellow w3-padding-16 w3-hide-small" style="text-shadow:1px 1px 0 #444">
       <h3>Programming lover</h3>
       <p style="max-width:300px;"><b>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</b></p>   
     </div>  
@@ -67,7 +67,7 @@ I love traveling and seeing natural places.</p>
   <!-- The Contact Section -->
   <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
     <h2 class="w3-wide w3-center">CONTACT</h2>
-    <p class="w3-opacity w3-center"><i>if you wish, do not hesitate to write</i></p>
+    <p class="w3-opacity w3-center"><i>If you wish, do not hesitate to write</i></p>
     <div class="w3-row w3-padding-32">
       <div class="w3-col m6 w3-large w3-margin-bottom">
         <i class="fa fa-map-marker" style="width:30px"></i> Bogotá, colombia<br>
@@ -80,7 +80,7 @@ I love traveling and seeing natural places.</p>
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/"target="_blank"> </a></i>
+  <a href="https://www.linkedin.com/in/marippee/"target="_blank"><i class="fa fa-linkedin w3-hover-opacity"> </i> </a>
   <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
