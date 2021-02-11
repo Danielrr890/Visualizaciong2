@@ -41,7 +41,7 @@ body {font-family: "Lato", sans-serif}
   </div>
   <div class="mySlides w3-display-container w3-center">
     <img src="https://github.com/MiguelRippe/MiguelRippe.github.io/blob/main/images/cocuy.jpg?raw=true" style="width:100%" alt="cocuy">
-    <div class="w3-display-bottommiddle w3-container w3-text-Teal w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
+    <div class="w3-display-bottommiddle w3-container w3-text-teal w3-padding-16 w3-hide-small" style="text-shadow:2px 2px 0 #444">
       <h3>Travel lover</h3>
       <p><b> "Jobs fill your pockets, adventures fill your soul."</b></p>    
     </div>
