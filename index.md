@@ -77,6 +77,7 @@ I love traveling and seeing natural places.</p>
       
 <!-- End Page Content -->
 </div>
+</body>
 
 
 <!-- Footer -->
@@ -121,5 +122,4 @@ window.onclick = function(event) {
   }
 }
 </script>
-</body>
 </html>
