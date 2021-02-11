@@ -84,30 +84,14 @@ I love traveling and seeing natural places.</p>
         <i class="fa fa-map-marker" style="width:30px"></i> Bogotá, colombia<br>
         <i class="fa fa-envelope" style="width:30px"> </i> Email: mrippee@ucentral.edu.co<br>
       </div>
-      <div class="w3-col m6">
-        <form action="/action_page.php" target="_blank">
-          <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
-            <div class="w3-half">
-              <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
-            </div>
-            <div class="w3-half">
-              <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
-            </div>
-          </div>
-          <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
-          <button class="w3-button w3-black w3-section w3-right" type="submit">SEND</button>
-        </form>
-      </div>
-    </div>
-  </div>
-  
+      
 <!-- End Page Content -->
 </div>
 
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
-  <i class="fa fa-linkedin w3-hover-opacity"> <a>https://www.linkedin.com/in/marippee/</a></i>
+  <i class="fa fa-linkedin w3-hover-opacity"> <a href="https://www.linkedin.com/in/marippee/" target="_blank"></a></i>
   <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
