@@ -1,6 +1,6 @@
 <!--DOCTYPE html-->
 <html lang="en">
-<title>Miguel Angel Rippe</title>
+<!--<title>Miguel Angel Rippe</title>-->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -77,7 +77,7 @@ I love traveling and seeing natural places.</p>
       
 <!-- End Page Content -->
 </div>
-</body>
+
 
 
 <!-- Footer -->
@@ -122,4 +122,5 @@ window.onclick = function(event) {
   }
 }
 </script>
-</html>
+<!--</body>
+</html>-->
